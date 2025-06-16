@@ -51,12 +51,3 @@ Once the container is running:
 
 This project was supported by JSPS KAKENHI Grant JP21H01333.  
 The human embryo data was provided by the Kyoto Collection under ethical approval from Kyoto University.
-
-
-## 📬 Contact
-
-For questions or collaborations, please contact:
-
-**Yasuhiko Terada**  
-[terada.yasuhiko.fu@u.tsukuba.ac.jp](mailto:terada.yasuhiko.fu@u.tsukuba.ac.jp)
-
